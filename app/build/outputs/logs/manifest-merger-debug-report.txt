@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:1-109:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7c0775d04f2b51bf19f4974cfbb2ff16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2127a43a49e124eb5bc5d982a455467/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e1ff318edbcdeb8d0a0b40d957942936/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77ed6f931666594901c0ea8ae5a53a95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c61c24e3bb862717de71fc8b2bca6306/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc70cdba87a8a6687fb391aa884b66a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/923d24607ebd7e225b22160e273405df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/85f4b191d561739982f3a0ab207f6375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fb89013bb1f236e884a93897b75c1da3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8ba36ae5e2825364c1f7a06e3577a17a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03f9800a5378407b5e039943733dff3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/95ff8704475ee14171414c9dfabffd1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ae6b254e552347f901d09c5ccfdb9410/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/07bb892ba93e9fac1f8de6062338fb97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e302c27ead0501b0c2b1d0d6b22137c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cb994c25d2aaa8c1212bf9c28f607f43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2cc9ac101bacd43c8af0d4ec074584f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6ead67010059f90f5998030c5da8039a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0e0e2c22e79e5d1b82ca9df8e03c4326/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bd2cb9bb484bf8317c3a951669abcebd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0d758c8db4b7577d12c970a2b839792/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6020d0f5a0bfe591897c9dc5b75f174f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49e0a7522ed1d88b6413fbe482943de0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:5:5-36
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:4:10-33
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:24:5-107:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ae6b254e552347f901d09c5ccfdb9410/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ae6b254e552347f901d09c5ccfdb9410/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:26:9-36
+	android:allowBackup
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:28:9-40
+service#com.iitm.bharatikeyboard.BharatiIME
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:29:9-40:19
+	android:label
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:31:13-48
+	android:permission
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:32:13-70
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:30:13-39
+meta-data#android.view.im
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:33:13-35:50
+	android:resource
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:35:17-47
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:34:17-47
+intent-filter#action:name:android.view.InputMethod
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:37:13-39:29
+action#android.view.InputMethod
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:38:17-67
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:38:25-64
+activity#com.iitm.bharatikeyboard.SetUpWizard
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:42:9-52:20
+	android:label
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:45:13-48
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:47:13-44
+	android:icon
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:46:13-40
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:43:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:50:27-74
+service#com.iitm.bharatikeyboard.SetupService
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:54:9-56:39
+	android:exported
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:55:13-40
+activity#com.iitm.bharatikeyboard.SettingsActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:57:9-59:46
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:58:13-42
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:57:19-51
+activity#com.iitm.bharatikeyboard.AboutBharati
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:60:9-63:52
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:62:13-42
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:61:13-41
+activity#com.iitm.bharatikeyboard.GettingStarted
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:64:9-67:52
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:66:13-42
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:65:13-43
+activity#com.iitm.bharatikeyboard.BengaliActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:70:9-73:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:72:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:71:13-44
+activity#com.iitm.bharatikeyboard.DevanagariActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:74:9-77:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:76:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:77:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:75:13-47
+activity#com.iitm.bharatikeyboard.GujaratiActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:78:9-81:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:80:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:81:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:79:13-45
+activity#com.iitm.bharatikeyboard.GurmukhiActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:82:9-85:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:84:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:85:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:83:13-45
+activity#com.iitm.bharatikeyboard.KannadaActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:86:9-89:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:88:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:87:13-44
+activity#com.iitm.bharatikeyboard.MalayalamActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:90:9-93:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:92:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:91:13-46
+activity#com.iitm.bharatikeyboard.OdiaActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:94:9-97:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:96:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:97:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:95:13-41
+activity#com.iitm.bharatikeyboard.TamilActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:98:9-101:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:100:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:99:13-42
+activity#com.iitm.bharatikeyboard.TeluguActivity
+ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:102:9-105:47
+	android:launchMode
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:104:13-48
+	android:theme
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:105:13-44
+	android:name
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml:103:13-43
+uses-sdk
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7c0775d04f2b51bf19f4974cfbb2ff16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7c0775d04f2b51bf19f4974cfbb2ff16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2127a43a49e124eb5bc5d982a455467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2127a43a49e124eb5bc5d982a455467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e1ff318edbcdeb8d0a0b40d957942936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e1ff318edbcdeb8d0a0b40d957942936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77ed6f931666594901c0ea8ae5a53a95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77ed6f931666594901c0ea8ae5a53a95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c61c24e3bb862717de71fc8b2bca6306/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c61c24e3bb862717de71fc8b2bca6306/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc70cdba87a8a6687fb391aa884b66a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc70cdba87a8a6687fb391aa884b66a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/923d24607ebd7e225b22160e273405df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/923d24607ebd7e225b22160e273405df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/85f4b191d561739982f3a0ab207f6375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/85f4b191d561739982f3a0ab207f6375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fb89013bb1f236e884a93897b75c1da3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fb89013bb1f236e884a93897b75c1da3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8ba36ae5e2825364c1f7a06e3577a17a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8ba36ae5e2825364c1f7a06e3577a17a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03f9800a5378407b5e039943733dff3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03f9800a5378407b5e039943733dff3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/95ff8704475ee14171414c9dfabffd1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/95ff8704475ee14171414c9dfabffd1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ae6b254e552347f901d09c5ccfdb9410/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ae6b254e552347f901d09c5ccfdb9410/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/07bb892ba93e9fac1f8de6062338fb97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/07bb892ba93e9fac1f8de6062338fb97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e302c27ead0501b0c2b1d0d6b22137c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e302c27ead0501b0c2b1d0d6b22137c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cb994c25d2aaa8c1212bf9c28f607f43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cb994c25d2aaa8c1212bf9c28f607f43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2cc9ac101bacd43c8af0d4ec074584f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2cc9ac101bacd43c8af0d4ec074584f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6ead67010059f90f5998030c5da8039a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6ead67010059f90f5998030c5da8039a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0e0e2c22e79e5d1b82ca9df8e03c4326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0e0e2c22e79e5d1b82ca9df8e03c4326/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bd2cb9bb484bf8317c3a951669abcebd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bd2cb9bb484bf8317c3a951669abcebd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0d758c8db4b7577d12c970a2b839792/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0d758c8db4b7577d12c970a2b839792/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6020d0f5a0bfe591897c9dc5b75f174f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6020d0f5a0bfe591897c9dc5b75f174f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49e0a7522ed1d88b6413fbe482943de0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ajithkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49e0a7522ed1d88b6413fbe482943de0/AndroidManifest.xml:20:5-44
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/AndroidManifest.xml

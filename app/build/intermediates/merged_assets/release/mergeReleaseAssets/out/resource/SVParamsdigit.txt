@@ -1,0 +1,9 @@
+52
+14
+3
+/digit_stroke.txt
+/digit/
+gausshhwrnSVs.txt
+gausshhwrSVIndices.txt
+gausshhwr.txt
+gausshhwrbias100.txt

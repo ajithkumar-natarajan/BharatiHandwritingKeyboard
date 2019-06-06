@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'BharatiIME'
+            keyPassword 'bharati@IITM'
+            storeFile file('/home/ajithkumar/AndroidStudioProjectsAssets/keystores/BharatiKeyboard.jks')
+            storePassword 'lekhini47'
+        }
+    }
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+    defaultConfig {
+        applicationId "com.iitm.bharatikeyboard"
+        minSdkVersion 16
+        targetSdkVersion 28
+        versionCode 6
+        versionName "1.1.1"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.txt'
+            //proguard-android.txt
+        }
+    }
+}
+
+dependencies {
+    api 'com.android.support:support-v4:28.0.0'
+}

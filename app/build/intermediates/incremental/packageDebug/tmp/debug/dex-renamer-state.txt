@@ -1,0 +1,4 @@
+#Thu Nov 22 19:04:50 IST 2018
+base.0=/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

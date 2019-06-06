@@ -1,0 +1,1556 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7,11,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "220,358,574",
+                        "endLines": "9,14,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "352,568,734"
+                    },
+                    "to": {
+                        "startLines": "2,5,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,192,407",
+                        "endLines": "4,8,11",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "187,402,567"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "57",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/923d24607ebd7e225b22160e273405df/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,13,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,724,5935",
+                        "endLines": "2,12,101,104",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,719,5930,6075"
+                    },
+                    "to": {
+                        "startLines": "14,29,39,1038",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "531,1387,1995,46099",
+                        "endLines": "14,38,127,1040",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "587,1990,7201,46239"
+                    }
+                },
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,16,21,25",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "186,511,727,893",
+                        "endLines": "13,19,23,29",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "473,721,887,1119"
+                    },
+                    "to": {
+                        "startLines": "1000,1008,1012,1015",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "43917,44209,44424,44589",
+                        "endLines": "1007,1011,1014,1019",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "44204,44419,44584,44815"
+                    }
+                },
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "247,248",
+                        "startColumns": "4,4",
+                        "startOffsets": "14314,14372",
+                        "endColumns": "57,55",
+                        "endOffsets": "14367,14423"
+                    }
+                },
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,319,617,3523,5588,7348,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652",
+                        "endLines": "2,3,4,5,12,55,87,124,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,240,314,612,3518,5583,7343,7720,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714"
+                    },
+                    "to": {
+                        "startLines": "15,16,19,21,22,128,171,203,240,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,275,276,277,278,279,280,281,282,283,284,286,862,1020,1021,1026,1029,1034,1036,1037",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "592,661,884,1015,1089,7206,10112,12177,13937,14428,14498,14566,14638,14708,14769,14843,14916,14977,15038,15100,15164,15226,15287,15355,15455,15515,15581,15654,15723,15780,15832,16106,16178,16254,16289,16324,16374,16435,16492,16526,16561,16656,38779,44820,44937,45204,45497,45764,45960,46032",
+                        "endLines": "15,16,19,21,28,170,202,239,246,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,275,276,277,278,279,280,281,282,283,284,286,862,1020,1024,1026,1032,1034,1036,1037",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "656,719,937,1084,1382,10107,12172,13932,14309,14493,14561,14633,14703,14764,14838,14911,14972,15033,15095,15159,15221,15282,15350,15450,15510,15576,15649,15718,15775,15827,15889,16173,16249,16284,16319,16369,16430,16487,16521,16556,16591,16721,38845,44932,45133,45309,45693,45888,46027,46094"
+                    }
+                },
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "27,22,839,840,1,12,8,66,94,95,68,96,111,92,93,70,65,77,79,74,78,76,104,105,87,88,99,100,73,136,137,138,139,140,84,85,115,113,67,89,90,82,119,121,123,118,130,132,127,131,129,126,83,120,125,128,124,114,122,133,109,72,106,101,86,91,75,102,103,108,71,112,110,97,98,69,107,142,143,144,145,146,315,316,317,318,319,397,398,399,400,401,487,488,489,490,491,671,672,673,674,675,832,2,62,150,233,322,404,494,589,678,745,17,21,6,16,154,182,183,156,199,184,201,180,181,158,153,166,167,162,165,164,192,193,175,176,187,188,161,226,227,228,229,230,172,173,205,203,155,177,178,170,209,211,213,208,221,222,217,220,219,216,171,210,215,218,214,204,212,223,197,160,194,189,174,179,163,190,191,196,159,202,200,185,186,157,198,195,19,15,20,844,843,841,842,18,23,25,237,265,266,239,286,267,283,263,264,241,236,248,250,245,249,247,275,276,258,259,270,271,244,309,310,311,312,313,255,256,288,285,238,260,261,253,292,294,296,291,303,305,300,304,302,299,254,293,298,301,297,287,295,306,280,243,277,272,257,262,246,273,274,279,242,284,282,268,269,240,281,278,326,352,353,328,372,354,350,351,330,325,336,337,332,335,334,362,363,345,346,357,358,331,391,392,393,394,395,342,343,371,327,347,348,340,376,378,380,375,385,387,382,386,384,381,341,377,383,379,388,367,364,359,344,349,333,360,361,366,370,369,355,356,329,368,365,407,436,437,415,409,453,438,418,458,455,434,435,411,406,421,416,420,419,446,447,429,430,441,442,414,481,482,483,484,485,426,427,460,457,408,431,432,424,463,471,465,474,467,462,477,472,476,475,470,425,464,469,473,468,459,466,478,451,413,448,443,428,433,417,444,445,450,412,456,454,439,440,410,452,449,498,527,528,506,500,548,529,509,550,545,525,526,502,497,512,507,511,510,537,538,520,521,559,555,560,558,556,557,532,533,505,582,583,584,585,586,517,518,552,547,499,522,523,515,564,572,566,575,568,563,578,573,577,576,571,516,565,570,574,569,551,567,579,542,504,539,534,519,524,508,535,536,541,503,546,544,530,531,501,543,540,549,14,10,5,593,621,622,595,642,623,639,619,620,597,592,605,606,601,604,603,631,632,614,615,626,627,600,665,666,667,668,669,611,612,644,641,594,616,617,609,648,650,652,647,659,661,656,660,658,655,610,649,654,657,653,643,651,662,636,599,633,628,613,618,602,629,630,635,598,640,638,624,625,596,637,634,845,837,838,11,13,9,3,682,688,684,710,701,719,691,715,712,700,686,681,689,693,692,698,687,737,738,739,740,741,714,683,717,696,723,729,725,732,727,722,730,733,728,724,731,716,726,734,708,705,703,697,699,690,704,707,713,711,702,685,709,706,718,748,777,778,803,756,750,794,779,759,799,796,775,776,802,752,747,762,757,761,760,787,788,770,771,782,783,755,826,827,828,829,830,767,768,801,798,749,772,773,765,807,815,809,818,811,806,820,822,816,821,819,814,766,808,813,817,812,800,810,823,792,754,789,784,769,774,758,785,786,791,753,797,795,780,781,751,793,790,24,833,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1176,952,29482,29545,16,486,320,2387,3338,3373,2457,3409,3939,3267,3302,2527,2352,2776,2850,2669,2813,2740,3692,3727,3089,3124,3515,3550,2634,4768,4826,4880,4936,4992,2982,3017,4085,4010,2422,3160,3195,2911,4183,4257,4331,4147,4594,4670,4481,4632,4556,4444,2946,4220,4406,4519,4368,4045,4294,4708,3868,2598,3763,3586,3053,3231,2705,3621,3656,3833,2562,3975,3903,3444,3479,2492,3798,5047,5108,5165,5224,5283,11064,11125,11182,11242,11301,14015,14074,14134,14192,14250,17270,17329,17390,17447,17505,23651,23712,23768,23821,23874,29225,82,2282,5366,8227,11381,14329,17590,20836,23947,26173,688,881,249,652,5474,6425,6460,5544,7025,6496,7096,6354,6389,5614,5439,5900,5937,5756,5863,5827,6779,6814,6176,6211,6602,6637,5721,7925,7981,8035,8091,8147,6069,6104,7242,7167,5509,6247,6282,5998,7340,7414,7488,7304,7789,7827,7638,7751,7713,7601,6033,7377,7563,7676,7525,7202,7451,7865,6955,5685,6850,6673,6140,6318,5792,6708,6743,6920,5649,7132,7060,6531,6566,5579,6990,6885,772,618,810,29838,29758,29602,29680,725,1008,1117,8333,9284,9319,8403,10026,9355,9920,9213,9248,8473,8298,8722,8796,8615,8759,8686,9638,9673,9035,9070,9461,9496,8580,10784,10842,10896,10953,11009,8928,8963,10101,9991,8368,9106,9141,8857,10199,10273,10347,10163,10610,10686,10497,10648,10572,10460,8892,10236,10422,10535,10384,10061,10310,10724,9814,8544,9709,9532,8999,9177,8651,9567,9602,9779,8508,9956,9884,9390,9425,8438,9849,9744,11489,12392,12428,11561,13118,12465,12319,12355,11633,11453,11853,11891,11705,11815,11778,12756,12792,12136,12172,12574,12610,11669,13737,13793,13850,13905,13960,12026,12062,13082,11525,12209,12245,11953,13215,13291,13367,13178,13559,13637,13443,13598,13520,13405,11989,13253,13482,13329,13676,12937,12829,12647,12099,12282,11742,12683,12719,12901,13046,13009,12501,12537,11597,12973,12865,14433,15419,15454,14716,14503,16019,15490,14822,16196,16090,15348,15383,14573,14398,14930,14751,14893,14857,15773,15808,15170,15205,15596,15631,14681,16989,17045,17103,17157,17212,15063,15098,16271,16161,14468,15241,15276,14992,16368,16666,16442,16778,16516,16332,16891,16703,16853,16815,16629,15027,16405,16591,16741,16553,16231,16479,16929,15949,14644,15844,15667,15134,15312,14787,15702,15737,15914,14608,16126,16054,15525,15560,14538,15984,15879,17697,18681,18716,17979,17767,19423,18752,18085,19494,19317,18610,18645,17837,17662,18193,18014,18156,18120,19035,19070,18432,18467,19781,19629,19819,19743,19667,19705,18858,18893,17944,20538,20596,20652,20709,20762,18325,18360,19569,19388,17732,18503,18538,18254,19917,20215,19991,20327,20065,19881,20440,20252,20402,20364,20178,18289,19954,20140,20290,20102,19529,20028,20478,19211,17908,19106,18929,18396,18574,18050,18964,18999,19176,17872,19353,19281,18787,18822,17802,19246,19141,19458,581,395,202,20938,21889,21924,21008,22631,21960,22525,21818,21853,21078,20903,21364,21401,21220,21327,21291,22243,22278,21640,21675,22066,22101,21185,23389,23447,23500,23550,23600,21533,21568,22706,22596,20973,21711,21746,21462,22804,22878,22952,22768,23215,23291,23102,23253,23177,23065,21497,22841,23027,23140,22989,22666,22915,23329,22419,21149,22314,22137,21604,21782,21256,22172,22207,22384,21113,22561,22489,21995,22030,21043,22454,22349,29910,29371,29418,434,542,360,151,24050,24260,24120,24989,24674,25312,24366,25166,25060,24639,24190,24015,24295,24437,24401,24568,24225,25877,25934,25989,26043,26097,25131,24085,25241,24497,25408,25630,25482,25742,25556,25372,25667,25779,25593,25445,25705,25201,25519,25817,24919,24814,24744,24532,24603,24331,24779,24884,25096,25024,24709,24155,24954,24849,25276,26276,27261,27296,28187,26558,26346,27861,27332,26664,28038,27932,27190,27225,28151,26416,26241,26772,26593,26735,26699,27615,27650,27012,27047,27438,27473,26523,28943,29001,29056,29115,29170,26905,26940,28113,28003,26311,27083,27118,26834,28283,28581,28357,28693,28431,28247,28768,28845,28618,28806,28730,28544,26869,28320,28506,28656,28468,28073,28394,28883,27791,26487,27686,27509,26976,27154,26629,27544,27579,27756,26451,27968,27896,27367,27402,26381,27826,27721,1068,29274,285",
+                        "endLines": "38,22,839,840,1,12,8,66,94,95,68,96,111,92,93,70,65,77,79,74,78,76,104,105,87,88,99,100,73,136,137,138,139,140,84,85,115,113,67,89,90,82,119,121,123,118,130,132,127,131,129,126,83,120,125,128,124,114,122,133,109,72,106,101,86,91,75,102,103,108,71,112,110,97,98,69,107,142,143,144,145,146,315,316,317,318,319,397,398,399,400,401,487,488,489,490,491,671,672,673,674,675,832,2,62,150,233,322,404,494,589,678,745,17,21,6,16,154,182,183,156,199,184,201,180,181,158,153,166,167,162,165,164,192,193,175,176,187,188,161,226,227,228,229,230,172,173,205,203,155,177,178,170,209,211,213,208,221,222,217,220,219,216,171,210,215,218,214,204,212,223,197,160,194,189,174,179,163,190,191,196,159,202,200,185,186,157,198,195,19,15,20,844,843,841,842,18,23,25,237,265,266,239,286,267,283,263,264,241,236,248,250,245,249,247,275,276,258,259,270,271,244,309,310,311,312,313,255,256,288,285,238,260,261,253,292,294,296,291,303,305,300,304,302,299,254,293,298,301,297,287,295,306,280,243,277,272,257,262,246,273,274,279,242,284,282,268,269,240,281,278,326,352,353,328,372,354,350,351,330,325,336,337,332,335,334,362,363,345,346,357,358,331,391,392,393,394,395,342,343,371,327,347,348,340,376,378,380,375,385,387,382,386,384,381,341,377,383,379,388,367,364,359,344,349,333,360,361,366,370,369,355,356,329,368,365,407,436,437,415,409,453,438,418,458,455,434,435,411,406,421,416,420,419,446,447,429,430,441,442,414,481,482,483,484,485,426,427,460,457,408,431,432,424,463,471,465,474,467,462,477,472,476,475,470,425,464,469,473,468,459,466,478,451,413,448,443,428,433,417,444,445,450,412,456,454,439,440,410,452,449,498,527,528,506,500,548,529,509,550,545,525,526,502,497,512,507,511,510,537,538,520,521,559,555,560,558,556,557,532,533,505,582,583,584,585,586,517,518,552,547,499,522,523,515,564,572,566,575,568,563,578,573,577,576,571,516,565,570,574,569,551,567,579,542,504,539,534,519,524,508,535,536,541,503,546,544,530,531,501,543,540,549,14,10,5,593,621,622,595,642,623,639,619,620,597,592,605,606,601,604,603,631,632,614,615,626,627,600,665,666,667,668,669,611,612,644,641,594,616,617,609,648,650,652,647,659,661,656,660,658,655,610,649,654,657,653,643,651,662,636,599,633,628,613,618,602,629,630,635,598,640,638,624,625,596,637,634,847,837,838,11,13,9,3,682,688,684,710,701,719,691,715,712,700,686,681,689,693,692,698,687,737,738,739,740,741,714,683,717,696,723,729,725,732,727,722,730,733,728,724,731,716,726,734,708,705,703,697,699,690,704,707,713,711,702,685,709,706,718,748,777,778,803,756,750,794,779,759,799,796,775,776,802,752,747,762,757,761,760,787,788,770,771,782,783,755,826,827,828,829,830,767,768,801,798,749,772,773,765,807,815,809,818,811,806,820,822,816,821,819,814,766,808,813,817,812,800,810,823,792,754,789,784,769,774,758,785,786,791,753,797,795,780,781,751,793,790,24,833,7",
+                        "endColumns": "19,55,62,56,65,55,39,34,34,35,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,57,53,55,55,53,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,60,56,58,58,56,60,56,59,58,56,58,59,57,57,56,58,60,56,57,60,60,55,52,52,52,48,68,48,51,49,50,48,50,45,46,47,36,70,35,35,34,34,35,34,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,55,53,55,55,56,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,37,33,70,71,79,77,77,46,59,57,34,34,35,34,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,57,53,56,55,53,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,35,35,36,35,35,35,35,36,35,35,37,37,36,37,36,35,36,35,36,35,36,35,55,56,54,54,53,35,36,35,35,35,36,35,37,37,37,36,38,38,38,38,38,37,36,37,37,37,37,35,35,35,36,36,35,35,36,35,35,36,35,36,35,35,35,34,34,35,34,34,34,34,34,34,35,34,35,34,34,36,35,36,35,34,35,34,35,34,35,34,55,57,53,54,56,34,35,37,34,34,34,35,34,36,36,36,36,36,35,37,37,37,37,36,35,36,37,36,37,39,36,36,34,36,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,34,34,35,34,34,34,34,34,34,35,34,35,34,34,36,35,36,35,34,35,34,35,37,37,37,37,37,37,34,35,34,57,55,56,52,53,34,35,37,34,34,34,35,34,36,36,36,36,36,35,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,35,36,38,46,34,34,35,34,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,57,52,49,49,49,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,13,46,63,39,38,34,49,34,34,34,34,34,35,34,34,35,34,34,34,35,35,35,34,34,56,54,53,53,53,34,34,34,34,36,36,36,36,36,35,37,37,36,36,36,39,36,36,34,34,34,35,35,34,34,34,34,35,34,34,34,34,35,34,34,35,35,34,34,34,34,34,34,35,34,35,35,34,34,36,35,36,35,34,35,34,35,34,35,34,57,54,58,54,53,34,35,37,34,34,34,35,34,36,36,36,36,36,35,37,37,37,38,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,48,56,34",
+                        "endOffsets": "1647,1003,29540,29597,77,537,355,2417,3368,3404,2487,3439,3970,3297,3333,2557,2382,2808,2882,2700,2845,2771,3722,3758,3119,3155,3545,3581,2664,4821,4875,4931,4987,5041,3012,3048,4118,4040,2452,3190,3226,2941,4215,4289,4363,4178,4627,4703,4514,4665,4589,4476,2977,4252,4439,4551,4401,4080,4326,4740,3898,2629,3793,3616,3084,3262,2735,3651,3687,3863,2593,4005,3934,3474,3510,2522,3828,5103,5160,5219,5278,5335,11120,11177,11237,11296,11353,14069,14129,14187,14245,14302,17324,17385,17442,17500,17561,23707,23763,23816,23869,23922,29269,146,2326,5413,8272,11427,14373,17636,20877,23989,26216,720,947,280,683,5504,6455,6491,5574,7055,6526,7127,6384,6420,5644,5469,5932,5969,5787,5895,5858,6809,6845,6206,6242,6632,6668,5751,7976,8030,8086,8142,8199,6099,6135,7275,7197,5539,6277,6313,6028,7372,7446,7520,7335,7822,7860,7671,7784,7746,7633,6064,7409,7596,7708,7558,7237,7483,7897,6985,5716,6880,6703,6171,6349,5822,6738,6774,6950,5680,7162,7091,6561,6597,5609,7020,6915,805,647,876,29905,29833,29675,29753,767,1063,1170,8363,9314,9350,8433,10056,9385,9951,9243,9279,8503,8328,8754,8828,8646,8791,8717,9668,9704,9065,9101,9491,9527,8610,10837,10891,10948,11004,11058,8958,8994,10134,10021,8398,9136,9172,8887,10231,10305,10379,10194,10643,10719,10530,10681,10605,10492,8923,10268,10455,10567,10417,10096,10342,10756,9844,8575,9739,9562,9030,9208,8681,9597,9633,9809,8539,9986,9915,9420,9456,8468,9879,9774,11520,12423,12460,11592,13149,12496,12350,12387,11664,11484,11886,11924,11737,11848,11810,12787,12824,12167,12204,12605,12642,11700,13788,13845,13900,13955,14009,12057,12094,13113,11556,12240,12277,11984,13248,13324,13400,13210,13593,13671,13477,13632,13554,13438,12021,13286,13515,13362,13709,12968,12860,12678,12131,12314,11773,12714,12751,12932,13077,13041,12532,12569,11628,13004,12896,14463,15449,15485,14746,14533,16049,15520,14852,16226,16121,15378,15414,14603,14428,14962,14782,14925,14888,15803,15839,15200,15236,15626,15662,14711,17040,17098,17152,17207,17264,15093,15129,16304,16191,14498,15271,15307,15022,16400,16698,16474,16810,16548,16363,16924,16736,16886,16848,16661,15058,16437,16624,16773,16586,16266,16511,16961,15979,14676,15874,15697,15165,15343,14817,15732,15768,15944,14639,16156,16085,15555,15591,14568,16014,15909,17727,18711,18747,18009,17797,19453,18782,18115,19524,19348,18640,18676,17867,17692,18225,18045,18188,18151,19065,19101,18462,18498,19814,19662,19852,19776,19700,19738,18888,18924,17974,20591,20647,20704,20757,20811,18355,18391,19602,19418,17762,18533,18569,18284,19949,20247,20023,20359,20097,19912,20473,20285,20435,20397,20210,18320,19986,20173,20322,20135,19564,20060,20510,19241,17939,19136,18959,18427,18605,18080,18994,19030,19206,17903,19383,19312,18817,18853,17832,19276,19171,19489,613,429,244,20968,21919,21955,21038,22661,21990,22556,21848,21884,21108,20933,21396,21433,21251,21359,21322,22273,22309,21670,21706,22096,22132,21215,23442,23495,23545,23595,23645,21563,21599,22739,22626,21003,21741,21777,21492,22836,22910,22984,22799,23248,23324,23135,23286,23210,23097,21528,22873,23060,23172,23022,22701,22947,23361,22449,21180,22344,22167,21635,21813,21286,22202,22238,22414,21144,22591,22520,22025,22061,21073,22484,22379,30034,29413,29477,469,576,390,196,24080,24290,24150,25019,24704,25343,24396,25196,25091,24669,24220,24045,24326,24468,24432,24598,24255,25929,25984,26038,26092,26146,25161,24115,25271,24527,25440,25662,25514,25774,25588,25403,25700,25812,25625,25477,25737,25236,25551,25849,24949,24844,24774,24563,24634,24361,24809,24914,25126,25055,24739,24185,24984,24879,25307,26306,27291,27327,28218,26588,26376,27891,27362,26694,28068,27963,27220,27256,28182,26446,26271,26804,26624,26767,26730,27645,27681,27042,27078,27468,27504,26553,28996,29051,29110,29165,29219,26935,26971,28146,28033,26341,27113,27149,26864,28315,28613,28389,28725,28463,28278,28801,28878,28651,28840,28763,28576,26900,28352,28539,28688,28501,28108,28426,28915,27821,26518,27716,27539,27007,27185,26659,27574,27610,27786,26482,27998,27927,27397,27433,26411,27856,27751,1112,29326,315"
+                    },
+                    "to": {
+                        "startLines": "2,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766,767,768,769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,831,832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,857,858,859,860,861,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,900,901,902,903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955,956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,981,982,983,984,985,986,987,988,989,990,991,992,993,994,995,996,997,998,999",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,16726,16782,16845,16902,16968,17024,17064,17099,17134,17170,17205,17240,17276,17311,17347,17382,17417,17454,17491,17527,17564,17600,17635,17671,17706,17742,17777,17813,17848,17896,17940,17986,18032,18076,18111,18147,18185,18220,18255,18290,18326,18361,18398,18435,18472,18508,18546,18584,18622,18660,18698,18735,18771,18808,18846,18883,18921,18961,18998,19035,19070,19106,19141,19176,19212,19248,19283,19318,19354,19389,19425,19460,19496,19531,19567,19602,19637,19688,19735,19784,19833,19880,19931,19978,20028,20077,20124,20173,20223,20271,20319,20366,20415,20466,20513,20561,20612,20663,20709,20752,20795,20838,20887,20956,21005,21057,21107,21158,21207,21258,21304,21351,21399,21436,21507,21543,21579,21614,21649,21685,21720,21755,21790,21826,21861,21897,21932,21967,22004,22041,22077,22114,22150,22185,22221,22256,22292,22327,22363,22398,22444,22488,22534,22580,22627,22662,22698,22736,22771,22806,22841,22877,22912,22949,22986,23023,23059,23097,23135,23173,23211,23249,23286,23322,23359,23397,23434,23472,23512,23549,23586,23621,23657,23692,23727,23763,23799,23834,23869,23905,23940,23976,24011,24047,24082,24118,24153,24188,24223,24261,24295,24366,24438,24518,24596,24674,24721,24781,24839,24874,24909,24945,24980,25015,25050,25086,25121,25157,25192,25227,25264,25301,25337,25374,25410,25445,25481,25516,25552,25587,25623,25658,25706,25750,25797,25843,25887,25922,25958,25996,26031,26066,26101,26137,26172,26209,26246,26283,26319,26357,26395,26433,26471,26509,26546,26582,26619,26657,26694,26732,26772,26809,26846,26881,26917,26952,26987,27023,27059,27094,27129,27165,27200,27236,27271,27307,27342,27378,27413,27448,27483,27519,27555,27592,27628,27664,27700,27736,27773,27809,27845,27883,27921,27958,27996,28033,28069,28106,28142,28179,28215,28252,28288,28334,28381,28426,28471,28515,28551,28588,28624,28660,28696,28733,28769,28807,28845,28883,28920,28959,28998,29037,29076,29115,29153,29190,29228,29266,29304,29342,29378,29414,29450,29487,29524,29560,29596,29633,29669,29705,29742,29778,29815,29851,29887,29923,29958,29993,30029,30064,30099,30134,30169,30204,30239,30275,30310,30346,30381,30416,30453,30489,30526,30562,30597,30633,30668,30704,30739,30775,30810,30856,30904,30948,30993,31040,31075,31111,31149,31184,31219,31254,31290,31325,31362,31399,31436,31473,31510,31546,31584,31622,31660,31698,31735,31771,31808,31846,31883,31921,31961,31998,32035,32070,32107,32142,32177,32213,32249,32284,32319,32355,32390,32426,32461,32497,32532,32568,32603,32638,32673,32708,32743,32779,32814,32849,32884,32919,32954,32989,33025,33060,33096,33131,33166,33203,33239,33276,33312,33347,33383,33418,33454,33492,33530,33568,33606,33644,33682,33717,33753,33788,33836,33882,33929,33972,34016,34051,34087,34125,34160,34195,34230,34266,34301,34338,34375,34412,34449,34486,34522,34560,34598,34636,34674,34711,34747,34784,34822,34859,34897,34937,34974,35011,35046,35082,35117,35152,35188,35224,35259,35294,35330,35365,35401,35436,35472,35507,35543,35578,35613,35648,35684,35721,35760,35807,35842,35877,35913,35948,35983,36018,36054,36089,36125,36160,36195,36232,36269,36305,36342,36378,36413,36449,36484,36520,36555,36591,36626,36674,36717,36757,36797,36837,36872,36908,36946,36981,37016,37051,37087,37122,37159,37196,37233,37269,37307,37345,37383,37421,37459,37496,37532,37569,37607,37644,37682,37722,37759,37796,37831,37867,37902,37937,37973,38009,38044,38079,38115,38150,38186,38221,38257,38292,38328,38363,38398,38433,38562,38609,38673,38713,38752,38850,38900,38935,38970,39005,39040,39075,39111,39146,39181,39217,39252,39287,39322,39358,39394,39430,39465,39500,39547,39592,39636,39680,39724,39759,39794,39829,39864,39901,39938,39975,40012,40049,40085,40123,40161,40198,40235,40272,40312,40349,40386,40421,40456,40491,40527,40563,40598,40633,40668,40703,40739,40774,40809,40844,40879,40915,40950,40985,41021,41057,41092,41127,41162,41197,41232,41267,41303,41338,41374,41410,41445,41480,41517,41553,41590,41626,41661,41697,41732,41768,41803,41839,41874,41922,41967,42016,42061,42105,42140,42176,42214,42249,42284,42319,42355,42390,42427,42464,42501,42538,42575,42611,42649,42687,42725,42764,42802,42839,42875,42912,42950,42987,43025,43065,43102,43139,43174,43210,43245,43280,43316,43352,43387,43422,43458,43493,43529,43564,43600,43635,43671,43706,43741,43776,43825,43882",
+                        "endLines": "13,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766,767,768,769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,831,832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,856,857,858,859,860,861,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,900,901,902,903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955,956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,981,982,983,984,985,986,987,988,989,990,991,992,993,994,995,996,997,998,999",
+                        "endColumns": "19,55,62,56,65,55,39,34,34,35,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,47,43,45,45,43,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,50,46,48,48,46,50,46,49,48,46,48,49,47,47,46,48,50,46,47,50,50,45,42,42,42,48,68,48,51,49,50,48,50,45,46,47,36,70,35,35,34,34,35,34,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,45,43,45,45,46,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,37,33,70,71,79,77,77,46,59,57,34,34,35,34,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,47,43,46,45,43,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,35,35,36,35,35,35,35,36,35,35,37,37,36,37,36,35,36,35,36,35,36,35,45,46,44,44,43,35,36,35,35,35,36,35,37,37,37,36,38,38,38,38,38,37,36,37,37,37,37,35,35,35,36,36,35,35,36,35,35,36,35,36,35,35,35,34,34,35,34,34,34,34,34,34,35,34,35,34,34,36,35,36,35,34,35,34,35,34,35,34,45,47,43,44,46,34,35,37,34,34,34,35,34,36,36,36,36,36,35,37,37,37,37,36,35,36,37,36,37,39,36,36,34,36,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,34,34,35,34,34,34,34,34,34,35,34,35,34,34,36,35,36,35,34,35,34,35,37,37,37,37,37,37,34,35,34,47,45,46,42,43,34,35,37,34,34,34,35,34,36,36,36,36,36,35,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,35,36,38,46,34,34,35,34,34,34,35,34,35,34,34,36,36,35,36,35,34,35,34,35,34,35,34,47,42,39,39,39,34,35,37,34,34,34,35,34,36,36,36,35,37,37,37,37,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,13,46,63,39,38,26,49,34,34,34,34,34,35,34,34,35,34,34,34,35,35,35,34,34,46,44,43,43,43,34,34,34,34,36,36,36,36,36,35,37,37,36,36,36,39,36,36,34,34,34,35,35,34,34,34,34,35,34,34,34,34,35,34,34,35,35,34,34,34,34,34,34,35,34,35,35,34,34,36,35,36,35,34,35,34,35,34,35,34,47,44,48,44,43,34,35,37,34,34,34,35,34,36,36,36,36,36,35,37,37,37,38,37,36,35,36,37,36,37,39,36,36,34,35,34,34,35,35,34,34,35,34,35,34,35,34,35,34,34,34,48,56,34",
+                        "endOffsets": "526,16777,16840,16897,16963,17019,17059,17094,17129,17165,17200,17235,17271,17306,17342,17377,17412,17449,17486,17522,17559,17595,17630,17666,17701,17737,17772,17808,17843,17891,17935,17981,18027,18071,18106,18142,18180,18215,18250,18285,18321,18356,18393,18430,18467,18503,18541,18579,18617,18655,18693,18730,18766,18803,18841,18878,18916,18956,18993,19030,19065,19101,19136,19171,19207,19243,19278,19313,19349,19384,19420,19455,19491,19526,19562,19597,19632,19683,19730,19779,19828,19875,19926,19973,20023,20072,20119,20168,20218,20266,20314,20361,20410,20461,20508,20556,20607,20658,20704,20747,20790,20833,20882,20951,21000,21052,21102,21153,21202,21253,21299,21346,21394,21431,21502,21538,21574,21609,21644,21680,21715,21750,21785,21821,21856,21892,21927,21962,21999,22036,22072,22109,22145,22180,22216,22251,22287,22322,22358,22393,22439,22483,22529,22575,22622,22657,22693,22731,22766,22801,22836,22872,22907,22944,22981,23018,23054,23092,23130,23168,23206,23244,23281,23317,23354,23392,23429,23467,23507,23544,23581,23616,23652,23687,23722,23758,23794,23829,23864,23900,23935,23971,24006,24042,24077,24113,24148,24183,24218,24256,24290,24361,24433,24513,24591,24669,24716,24776,24834,24869,24904,24940,24975,25010,25045,25081,25116,25152,25187,25222,25259,25296,25332,25369,25405,25440,25476,25511,25547,25582,25618,25653,25701,25745,25792,25838,25882,25917,25953,25991,26026,26061,26096,26132,26167,26204,26241,26278,26314,26352,26390,26428,26466,26504,26541,26577,26614,26652,26689,26727,26767,26804,26841,26876,26912,26947,26982,27018,27054,27089,27124,27160,27195,27231,27266,27302,27337,27373,27408,27443,27478,27514,27550,27587,27623,27659,27695,27731,27768,27804,27840,27878,27916,27953,27991,28028,28064,28101,28137,28174,28210,28247,28283,28329,28376,28421,28466,28510,28546,28583,28619,28655,28691,28728,28764,28802,28840,28878,28915,28954,28993,29032,29071,29110,29148,29185,29223,29261,29299,29337,29373,29409,29445,29482,29519,29555,29591,29628,29664,29700,29737,29773,29810,29846,29882,29918,29953,29988,30024,30059,30094,30129,30164,30199,30234,30270,30305,30341,30376,30411,30448,30484,30521,30557,30592,30628,30663,30699,30734,30770,30805,30851,30899,30943,30988,31035,31070,31106,31144,31179,31214,31249,31285,31320,31357,31394,31431,31468,31505,31541,31579,31617,31655,31693,31730,31766,31803,31841,31878,31916,31956,31993,32030,32065,32102,32137,32172,32208,32244,32279,32314,32350,32385,32421,32456,32492,32527,32563,32598,32633,32668,32703,32738,32774,32809,32844,32879,32914,32949,32984,33020,33055,33091,33126,33161,33198,33234,33271,33307,33342,33378,33413,33449,33487,33525,33563,33601,33639,33677,33712,33748,33783,33831,33877,33924,33967,34011,34046,34082,34120,34155,34190,34225,34261,34296,34333,34370,34407,34444,34481,34517,34555,34593,34631,34669,34706,34742,34779,34817,34854,34892,34932,34969,35006,35041,35077,35112,35147,35183,35219,35254,35289,35325,35360,35396,35431,35467,35502,35538,35573,35608,35643,35679,35716,35755,35802,35837,35872,35908,35943,35978,36013,36049,36084,36120,36155,36190,36227,36264,36300,36337,36373,36408,36444,36479,36515,36550,36586,36621,36669,36712,36752,36792,36832,36867,36903,36941,36976,37011,37046,37082,37117,37154,37191,37228,37264,37302,37340,37378,37416,37454,37491,37527,37564,37602,37639,37677,37717,37754,37791,37826,37862,37897,37932,37968,38004,38039,38074,38110,38145,38181,38216,38252,38287,38323,38358,38393,38428,38557,38604,38668,38708,38747,38774,38895,38930,38965,39000,39035,39070,39106,39141,39176,39212,39247,39282,39317,39353,39389,39425,39460,39495,39542,39587,39631,39675,39719,39754,39789,39824,39859,39896,39933,39970,40007,40044,40080,40118,40156,40193,40230,40267,40307,40344,40381,40416,40451,40486,40522,40558,40593,40628,40663,40698,40734,40769,40804,40839,40874,40910,40945,40980,41016,41052,41087,41122,41157,41192,41227,41262,41298,41333,41369,41405,41440,41475,41512,41548,41585,41621,41656,41692,41727,41763,41798,41834,41869,41917,41962,42011,42056,42100,42135,42171,42209,42244,42279,42314,42350,42385,42422,42459,42496,42533,42570,42606,42644,42682,42720,42759,42797,42834,42870,42907,42945,42982,43020,43060,43097,43134,43169,43205,43240,43275,43311,43347,43382,43417,43453,43488,43524,43559,43595,43630,43666,43701,43736,43771,43820,43877,43912"
+                    }
+                },
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "17,18,20,271,272,273,274,285,1025,1027,1028,1033,1035",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "724,813,942,15894,15947,16000,16053,16596,45138,45314,45436,45698,45893",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "808,879,1010,15942,15995,16048,16101,16651,45199,45431,45492,45759,45955"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "22,25,29,33",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1385,1553,1842,2138",
+                        "endLines": "24,27,31,35",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1548,1711,2005,2300"
+                    }
+                },
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,20,21,28,32,36,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,1143,1259,1716,2010,2305,2477",
+                        "endLines": "2,3,4,5,20,21,28,32,38,43",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,1254,1380,1837,2133,2472,2810"
+                    }
+                },
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "8,12,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "251,393,756",
+                        "endLines": "10,17,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "385,748,1052"
+                    },
+                    "to": {
+                        "startLines": "6,9,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "354,491,846",
+                        "endLines": "8,14,19",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "486,841,1138"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6,10,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "177,315,531",
+                        "endLines": "8,13,17",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "309,525,691"
+                    },
+                    "to": {
+                        "startLines": "2,5,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,192,407",
+                        "endLines": "4,8,11",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "187,402,567"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

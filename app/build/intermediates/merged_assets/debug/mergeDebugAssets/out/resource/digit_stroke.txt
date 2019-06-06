@@ -1,0 +1,14 @@
+1_base2
+2
+3
+4_base
+4_base1
+4_base2
+5
+5_base
+6
+7
+8
+9
+0
+tilda

@@ -1,0 +1,9 @@
+64
+50
+3
+/english_stroke.txt
+/english/
+gausshhwrnSVs.txt
+gausshhwrSVIndices.txt
+gausshhwr.txt
+gausshhwrbias100.txt

@@ -1,0 +1,850 @@
+<resources>
+    <string name="app_name">Bharati Handwriting Keyboard</string>
+    <string name="bharati_ime">Bharati Handwriting Keyboard</string>
+    <string name="subtype_en_US">Bharati</string>
+
+    <string name="numeral_switch">123</string>
+    <string name="clear">✗</string>
+    <string name="undo">↶</string>
+    <string name="backspace">⌫</string>
+    <string name="space"></string>
+    <string name="new_line">↩</string>
+    <string name="recognize">✓</string> <!-- ✓➜ -->
+    <string name="auto_recog_switch">AUTO \nON</string>
+    <string name="settings">S</string>
+    <string name="manual">M</string>
+    <string name="dot">.</string>
+    <string name="comma">,</string>
+    <string name="blank">  </string>
+    <string name="example">Examples: </string>
+    <string name="done">DONE</string>
+    <string name="enable">Enable Bharati Handwriting Keyboard</string>
+    <string name="choose">Choose Bharati Handwriting Keyboard</string>
+    <string name="about_bharati">About Bharati</string>
+    <string name="getting_started">Getting Started</string>
+    <string name="title">Bharati Script</string>
+    <string name="getting_title">Getting Started</string>
+
+    <string-array name="script_choices">
+        <item>Abc</item> <!-- English  -->
+        <item>अक</item> <!-- Devanagari -->
+        <item>அக</item> <!-- Tamil -->
+        <item>అక</item> <!-- Telugu -->
+        <item>ಅಕ</item> <!-- kannada -->
+        <item>അക</item> <!-- Malayalam -->
+        <item>অক</item> <!-- Bengali -->
+        <item>ਅਕ</item> <!-- Gurmukhi -->
+        <item>અક</item> <!-- Gurjarati -->
+        <item>ଅକ</item> <!-- Oriya -->
+    </string-array>
+
+
+    <!-- Bharati -->
+    <!--
+    <string name="bh_a">అ</string>
+    <string name="bh_A">ఆ</string>
+    <string name="bh_i">ఇ</string>
+    <string name="bh_I">ఈ</string>
+    <string name="bh_u">ఉ</string>
+    <string name="bh_U">ఊ</string>
+    <string name="bh_ri">ఋ</string>
+    <string name="bh_li">ఌ</string>
+    <string name="bh_e">ఎ</string>
+    <string name="bh_E">ఏ</string>
+    <string name="bh_ai">ఐ</string>
+    <string name="bh_o">ఒ</string>
+    <string name="bh_O">ఓ</string>
+    <string name="bh_au">ఔ</string>
+    <string name="bh_am">అం</string>
+    <string name="bh_ah">అః</string>
+    -->
+
+    <!-- Bengali -->
+    <string name="bhbe">Bharati➔Bengali</string>
+
+    <!-- vowels -->
+    <string name="be_a">অ</string>
+    <string name="be_A">আ</string>
+    <string name="be_i">ই</string>
+    <string name="be_I">ঈ</string>
+    <string name="be_u">উ</string>
+    <string name="be_U">ঊ</string>
+    <string name="be_ri">ঋ</string>
+    <string name="be_li">ঌ</string>
+    <string name="be_e">এ</string>
+    <string name="be_ai">ঐ</string>
+    <string name="be_o">ও</string>
+    <string name="be_au">ঔ</string>
+    <string name="be_aM">অঁ</string>
+    <string name="be_am">অং</string>
+    <string name="be_ah">অঃ</string>
+
+    <!-- consonants-->
+    <string name="be_k">ক</string>
+    <string name="be_kh">খ</string>
+    <string name="be_g">গ</string>
+    <string name="be_gh">ঘ</string>
+    <string name="be_ng">ঙ</string>
+    <string name="be_c">চ</string>
+    <string name="be_ch">ছ</string>
+    <string name="be_j">জ</string>
+    <string name="be_jh">ঝ</string>
+    <string name="be_ny">ঞ</string>
+    <string name="be_T">ট</string>
+    <string name="be_Th">ঠ</string>
+    <string name="be_D">ড</string>
+    <string name="be_Dh">ঢ</string>
+    <string name="be_N">ণ</string>
+    <string name="be_t">ত</string>
+    <string name="be_th">থ</string>
+    <string name="be_d">দ</string>
+    <string name="be_dh">ধ</string>
+    <string name="be_n">ন</string>
+    <string name="be_p">প</string>
+    <string name="be_ph">ফ</string>
+    <string name="be_b">ব</string>
+    <string name="be_bh">ভ</string>
+    <string name="be_m">ম</string>
+    <string name="be_y">য</string>
+    <string name="be_r">র</string>
+    <string name="be_l">ল</string>
+    <string name="be_sh">শ</string>
+    <string name="be_Sh">ষ</string>
+    <string name="be_s">স</string>
+    <string name="be_h">হ</string>
+    <string name="be_ksha">ক্ষ</string>
+    <string name="be_gy">জ্ঞ</string>
+
+    <!-- barakhadi -->
+    <string name="be_ka">ক</string>
+    <string name="be_kA">কা</string>
+    <string name="be_ki">কি</string>
+    <string name="be_kI">কী</string>
+    <string name="be_ku">কু</string>
+    <string name="be_kU">কূ</string>
+    <string name="be_kri">কৃ</string>
+    <string name="be_kli">কৢ</string>
+    <string name="be_ke">কে</string>
+    <string name="be_kai">কৈ</string>
+    <string name="be_ko">কো</string>
+    <string name="be_kau">কৌ</string>
+    <string name="be_kaM">কঁ</string>
+    <string name="be_kam">কং</string>
+    <string name="be_kah">কঃ</string>
+    <string name="be_kv">ক্</string>
+
+    <!-- examples -->
+    <string name="be_ex1">&#160; সুপ্রভাত &#160;</string>
+    <string name="be_ex2">&#160; কর্ম &#160;</string>
+    <string name="be_ex3">&#160; বিদ্যা &#160;</string>
+    <string name="be_ex4">&#160; প্রশ্ন &#160;</string>
+    <string name="be_ex5">&#160; পদ্ম &#160;</string>
+
+    <string name="bh_be_ex1">&#160; सुप्रभात &#160;</string>
+    <string name="bh_be_ex2">&#160; कर्म &#160;</string>
+    <string name="bh_be_ex3">&#160; बिद्या &#160;</string>
+    <string name="bh_be_ex4">&#160; प्रश्न &#160;</string>
+    <string name="bh_be_ex5">&#160; पद्म &#160;</string>
+
+
+    <!-- Devanagari -->
+    <string name="bhde">Bharati➔Devanagari</string>
+
+    <!-- vowels -->
+    <string name="de_a">अ</string>
+    <string name="de_A">आ</string>
+    <string name="de_i">इ</string>
+    <string name="de_I">ई</string>
+    <string name="de_u">उ</string>
+    <string name="de_U">ऊ</string>
+    <string name="de_ri">ऋ</string>
+    <string name="de_li">ऌ</string>
+    <string name="de_e">ए</string>
+    <string name="de_ai">ऐ</string>
+    <string name="de_o">ओ</string>
+    <string name="de_au">औ</string>
+    <string name="de_am">अं</string>
+    <string name="de_aM">अँ</string>
+    <string name="de_ah">अः</string>
+
+    <!-- consonants-->
+    <string name="de_k">क</string>
+    <string name="de_kh">ख</string>
+    <string name="de_g">ग</string>
+    <string name="de_gh">घ</string>
+    <string name="de_ng">ङ</string>
+    <string name="de_c">च</string>
+    <string name="de_ch">छ</string>
+    <string name="de_j">ज</string>
+    <string name="de_jh">झ</string>
+    <string name="de_ny">ञ</string>
+    <string name="de_T">ट</string>
+    <string name="de_Th">ठ</string>
+    <string name="de_D">ड</string>
+    <string name="de_Dh">ढ</string>
+    <string name="de_N">ण</string>
+    <string name="de_t">त</string>
+    <string name="de_th">थ</string>
+    <string name="de_d">द</string>
+    <string name="de_dh">ध</string>
+    <string name="de_n">न</string>
+    <string name="de_p">प</string>
+    <string name="de_ph">फ</string>
+    <string name="de_b">ब</string>
+    <string name="de_bh">भ</string>
+    <string name="de_m">म</string>
+    <string name="de_y">य</string>
+    <string name="de_r">र</string>
+    <string name="de_l">ल</string>
+    <string name="de_v">व</string>
+    <string name="de_L">ळ</string>
+    <string name="de_sh">श</string>
+    <string name="de_Sh">ष</string>
+    <string name="de_s">स</string>
+    <string name="de_h">ह</string>
+    <string name="de_ksha">क्ष</string>
+    <string name="de_gy">ज्ञ</string>
+
+    <!-- barakhadi -->
+    <string name="de_ka">क</string>
+    <string name="de_kA">का</string>
+    <string name="de_ki">कि</string>
+    <string name="de_kI">की</string>
+    <string name="de_ku">कु</string>
+    <string name="de_kU">कू</string>
+    <string name="de_kri">कृ</string>
+    <string name="de_kli">कॢ</string>
+    <string name="de_ke">के</string>
+    <string name="de_kai">कै</string>
+    <string name="de_ko">को</string>
+    <string name="de_kau">कौ</string>
+    <string name="de_kam">कं</string>
+    <string name="de_kaM">कँ</string>
+    <string name="de_kah">कः</string>
+    <string name="de_kv">क्</string>
+
+    <!-- examples -->
+    <string name="de_ex1">&#160; नमस्ते &#160;</string>
+    <string name="de_ex2">&#160; कर्म &#160;</string>
+    <string name="de_ex3">&#160; औचित्य &#160;</string>
+    <string name="de_ex4">&#160; प्रश्न &#160;</string>
+    <string name="de_ex5">&#160; विद्वान &#160;</string>
+
+    <!-- Gujarati -->
+    <string name="bhgu">Bharati➔Gujarati</string>
+
+    <!-- vowels -->
+    <string name="gu_a">અ</string>
+    <string name="gu_A">આ</string>
+    <string name="gu_i">ઇ</string>
+    <string name="gu_I">ઈ</string>
+    <string name="gu_u">ઉ</string>
+    <string name="gu_U">ઊ</string>
+    <string name="gu_ri">ઋ</string>
+    <string name="gu_li">ઌ</string>
+    <string name="gu_e">એ</string>
+    <string name="gu_ai">ઐ</string>
+    <string name="gu_o">ઓ</string>
+    <string name="gu_au">ઔ</string>
+    <string name="gu_aM">અઁ</string>
+    <string name="gu_am">અં</string>
+    <string name="gu_ah">અઃ</string>
+
+    <!-- consonants-->
+    <string name="gu_k">ક</string>
+    <string name="gu_kh">ખ</string>
+    <string name="gu_g">ગ</string>
+    <string name="gu_gh">ઘ</string>
+    <string name="gu_ng">ઙ</string>
+    <string name="gu_c">ચ</string>
+    <string name="gu_ch">છ</string>
+    <string name="gu_j">જ</string>
+    <string name="gu_jh">ઝ</string>
+    <string name="gu_ny">ઞ</string>
+    <string name="gu_T">ટ</string>
+    <string name="gu_Th">ઠ</string>
+    <string name="gu_D">ડ</string>
+    <string name="gu_Dh">ઢ</string>
+    <string name="gu_N">ણ</string>
+    <string name="gu_t">ત</string>
+    <string name="gu_th">થ</string>
+    <string name="gu_d">દ</string>
+    <string name="gu_dh">ધ</string>
+    <string name="gu_n">ન</string>
+    <string name="gu_p">પ</string>
+    <string name="gu_ph">ફ</string>
+    <string name="gu_b">બ</string>
+    <string name="gu_bh">ભ</string>
+    <string name="gu_m">મ</string>
+    <string name="gu_y">ય</string>
+    <string name="gu_r">ર</string>
+    <string name="gu_l">લ</string>
+    <string name="gu_v">વ</string>
+    <string name="gu_sh">શ</string>
+    <string name="gu_Sh">ષ</string>
+    <string name="gu_s">સ</string>
+    <string name="gu_h">હ</string>
+    <string name="gu_L">ળ</string>
+    <string name="gu_ksha">ક્ષ</string>
+    <string name="gu_gn">જ્ઞ</string>
+
+    <!-- barakhadi -->
+    <string name="gu_ka">ક</string>
+    <string name="gu_kA">કા</string>
+    <string name="gu_ki">કિ</string>
+    <string name="gu_kI">કી</string>
+    <string name="gu_ku">કુ</string>
+    <string name="gu_kU">કૂ</string>
+    <string name="gu_kri">કૃ</string>
+    <string name="gu_kli">કૢ</string>
+    <string name="gu_ke">કે</string>
+    <string name="gu_kai">કૈ</string>
+    <string name="gu_ko">કો</string>
+    <string name="gu_kau">કૌ</string>
+    <string name="gu_kaM">કઁ</string>
+    <string name="gu_kam">કં</string>
+    <string name="gu_kah">કઃ</string>
+    <string name="gu_kv">ક્</string>
+
+    <!-- examples -->
+    <string name="gu_ex1">&#160; સુપ્રભાત &#160;</string>
+    <string name="gu_ex2">&#160; કર્મ &#160;</string>
+    <string name="gu_ex3">&#160; વિદ્વાન &#160;</string>
+    <string name="gu_ex4">&#160; પ્રશ્ન &#160;</string>
+    <string name="gu_ex5">&#160; પદ્મ &#160;</string>
+
+    <string name="bh_gu_ex1">&#160; सुप्रभात &#160;</string>
+    <string name="bh_gu_ex2">&#160; कर्म &#160;</string>
+    <string name="bh_gu_ex3">&#160; विद्वान &#160;</string>
+    <string name="bh_gu_ex4">&#160; प्रश्न &#160;</string>
+    <string name="bh_gu_ex5">&#160; पद्म &#160;</string>
+
+    <!-- Gurmukhi -->
+    <string name="bhgur">Bharati➔Gurmukhi</string>
+
+    <!-- vowels -->
+    <string name="gur_a">ਅ</string>
+    <string name="gur_A">ਆ</string>
+    <string name="gur_i">ਇ</string>
+    <string name="gur_I">ਈ</string>
+    <string name="gur_u">ਉ</string>
+    <string name="gur_U">ਊ</string>
+    <string name="gur_e">ਵ</string>
+    <string name="gur_ai">ਐ</string>
+    <string name="gur_o">ਓ</string>
+    <string name="gur_au">ਔ</string>
+    <string name="gur_am">ਅਂ</string>
+    <string name="gur_aM">ਅਁ</string>
+    <string name="gur_ah">ਅਃ</string>
+
+    <!-- consonants-->
+    <string name="gur_k">ਕ</string>
+    <string name="gur_kh">ਖ</string>
+    <string name="gur_g">ਗ</string>
+    <string name="gur_gh">ਘ</string>
+    <string name="gur_ng">ਙ</string>
+    <string name="gur_c">ਚ</string>
+    <string name="gur_ch">ਛ</string>
+    <string name="gur_j">ਜ</string>
+    <string name="gur_jh">ਝ</string>
+    <string name="gur_ny">ਞ</string>
+    <string name="gur_T">ਟ</string>
+    <string name="gur_Th">ਠ</string>
+    <string name="gur_D">ਡ</string>
+    <string name="gur_Dh">ਢ</string>
+    <string name="gur_N">ਣ</string>
+    <string name="gur_t">ਤ</string>
+    <string name="gur_th">ਥ</string>
+    <string name="gur_d">ਦ</string>
+    <string name="gur_dh">ਧ</string>
+    <string name="gur_n">ਨ</string>
+    <string name="gur_p">ਪ</string>
+    <string name="gur_ph">ਫ</string>
+    <string name="gur_b">ਬ</string>
+    <string name="gur_bh">ਭ</string>
+    <string name="gur_m">ਮ</string>
+    <string name="gur_y">ਯ</string>
+    <string name="gur_r">ਰ</string>
+    <string name="gur_l">ਲ</string>
+    <string name="gur_v">ਵ</string>
+    <string name="gur_sh">ਸ਼</string>
+    <string name="gur_s">ਸ</string>
+    <string name="gur_h">ਹ</string>
+    <string name="gur_L">ਲ਼</string>
+
+    <!-- barakhadi -->
+    <string name="gur_ka">ਕ</string>
+    <string name="gur_kA">ਕਾ</string>
+    <string name="gur_ki">ਕਿ</string>
+    <string name="gur_kI">ਕੀ</string>
+    <string name="gur_ku">ਕੁ</string>
+    <string name="gur_kU">ਕੂ</string>
+    <string name="gur_ke">ਕੇ</string>
+    <string name="gur_kai">ਕੈ</string>
+    <string name="gur_ko">ਕੋ</string>
+    <string name="gur_kau">ਕੌ</string>
+    <string name="gur_kaM">ਕਁ</string>
+    <string name="gur_kam">ਕਂ</string>
+    <string name="gur_kah">ਕਃ</string>
+    <string name="gur_kv">ਕ੍</string>
+
+    <!-- examples -->
+    <string name="gur_ex1">&#160; ਰਾਤਰੀ &#160;</string>
+    <string name="gur_ex2">&#160; ਤੁਹਾਡਾ &#160;</string>
+    <string name="gur_ex3">&#160; ਕ੍ਰਮ &#160;</string>
+    <string name="gur_ex4">&#160; ਸ਼੍ਰੀ &#160;</string>
+    <string name="gur_ex5">&#160; ਔਸ਼ਦ &#160;</string>
+
+    <string name="bh_gur_ex1">&#160; रातरी &#160;</string>
+    <string name="bh_gur_ex2">&#160; तुहाडा &#160;</string>
+    <string name="bh_gur_ex3">&#160; क्रम &#160;</string>
+    <string name="bh_gur_ex4">&#160; श्री &#160;</string>
+    <string name="bh_gur_ex5">&#160; औशद &#160;</string>
+
+    <!-- Kannada -->
+    <string name="bhka">Bharati➔Kannada</string>
+    <!-- vowels -->
+    <string name="ka_a">ಅ</string>
+    <string name="ka_A">ಆ</string>
+    <string name="ka_i">ಇ</string>
+    <string name="ka_I">ಈ</string>
+    <string name="ka_u">ಉ</string>
+    <string name="ka_U">ಊ</string>
+    <string name="ka_ri">ಋ</string>
+    <string name="ka_li">ಳಿ</string>
+    <string name="ka_e">ಎ</string>
+    <string name="ka_E">ಏ</string>
+    <string name="ka_ai">ಐ</string>
+    <string name="ka_o">ಒ</string>
+    <string name="ka_O">ಓ</string>
+    <string name="ka_au">ಔ</string>
+    <string name="ka_am">ಅಂ</string>
+    <string name="ka_ah">ಅಃ</string>
+
+    <!-- Consonants -->
+    <string name="ka_k">ಕ</string>
+    <string name="ka_kh">ಖ</string>
+    <string name="ka_g">ಗ</string>
+    <string name="ka_gh">ಘ</string>
+    <string name="ka_ng">ಙ</string>
+    <string name="ka_c">ಚ</string>
+    <string name="ka_ch">ಛ</string>
+    <string name="ka_j">ಜ</string>
+    <string name="ka_jh">ಝ</string>
+    <string name="ka_ny">ಞ</string>
+    <string name="ka_T">ಟ</string>
+    <string name="ka_Th">ಠ</string>
+    <string name="ka_D">ಡ</string>
+    <string name="ka_Dh">ಢ</string>
+    <string name="ka_N">ಣ</string>
+    <string name="ka_t">ತ</string>
+    <string name="ka_th">ಥ</string>
+    <string name="ka_d">ದ</string>
+    <string name="ka_dh">ಧ</string>
+    <string name="ka_n">ನ</string>
+    <string name="ka_p">ಪ</string>
+    <string name="ka_ph">ಫ</string>
+    <string name="ka_b">ಬ</string>
+    <string name="ka_bh">ಭ</string>
+    <string name="ka_m">ಮ</string>
+    <string name="ka_y">ಯ</string>
+    <string name="ka_r">ರ</string>
+    <string name="ka_l">ಲ</string>
+    <string name="ka_v">ವ</string>
+    <string name="ka_L">ಳ</string>
+    <string name="ka_sh">ಶ</string>
+    <string name="ka_Sh">ಷ</string>
+    <string name="ka_s">ಸ</string>
+    <string name="ka_h">ಹ</string>
+    <string name="ka_R">ಱ</string>
+    <string name="ka_ksha">ಕ್ಷ</string>
+    <string name="ka_gy">ಜ್ಞ</string>
+    <!-- barakhadi -->
+    <string name="ka_ka">ಕ</string>
+    <string name="ka_kA">ಕಾ</string>
+    <string name="ka_ki">ಕಿ</string>
+    <string name="ka_kI">ಕೀ</string>
+    <string name="ka_ku">ಕು</string>
+    <string name="ka_kU">ಕೂ</string>
+    <string name="ka_kri">ಕೃ</string>
+    <string name="ka_kli">ಕೢ</string>
+    <string name="ka_ke">ಕೆ</string>
+    <string name="ka_kE">ಕೇ</string>
+    <string name="ka_kai">ಕೈ</string>
+    <string name="ka_ko">ಕೊ</string>
+    <string name="ka_kO">ಕೋ</string>
+    <string name="ka_kau">ಕೌ</string>
+    <string name="ka_kam">ಕಂ</string>
+    <string name="ka_kah">ಕಃ</string>
+    <string name="ka_kv">ಕ್</string>
+
+    <!-- examples -->
+    <string name="ka_ex1">&#160; ರಾತ್ರಿ &#160;</string>
+    <string name="ka_ex2">&#160; ಮಧ್ಯಾಹ್ನ &#160;</string>
+    <string name="ka_ex3">&#160; ಕರ್ಮ &#160;</string>
+    <string name="ka_ex4">&#160; ಎಷ್ಟು &#160;</string>
+    <string name="ka_ex5">&#160; ಕರ್ತವ್ಯ &#160;</string>
+
+    <string name="bh_ka_ex1">&#160; రాత్రి &#160;</string>
+    <string name="bh_ka_ex2">&#160; మధ్యాహ్న &#160;</string>
+    <string name="bh_ka_ex3">&#160; కర్మ &#160;</string>
+    <string name="bh_ka_ex4">&#160; ఎష్టు &#160;</string>
+    <string name="bh_ka_ex5">&#160; కర్తవ్య  &#160;</string>
+
+    <!-- Malayalam -->
+    <string name="bhma">Bharati➔Malayalam</string>
+
+    <!-- vowels -->
+    <string name="ma_a">അ</string>
+    <string name="ma_A">ആ</string>
+    <string name="ma_i">ഇ</string>
+    <string name="ma_I">ഈ</string>
+    <string name="ma_u">ഉ</string>
+    <string name="ma_U">ഊ</string>
+    <string name="ma_ri">ഋ</string>
+    <string name="ma_li">ഌ</string>
+    <string name="ma_e">എ</string>
+    <string name="ma_E">ഏ</string>
+    <string name="ma_ai">ഐ</string>
+    <string name="ma_o">ഒ</string>
+    <string name="ma_O">ഓ</string>
+    <string name="ma_au">ഔ</string>
+    <string name="ma_am">അം</string>
+    <string name="ma_ah">അഃ</string>
+
+    <!-- consonants-->
+    <string name="ma_k">ക</string>
+    <string name="ma_kh">ഖ</string>
+    <string name="ma_g">ഗ</string>
+    <string name="ma_gh">ഘ</string>
+    <string name="ma_ng">ങ</string>
+    <string name="ma_c">ച</string>
+    <string name="ma_ch">ഛ</string>
+    <string name="ma_j">ജ</string>
+    <string name="ma_jh">ഝ</string>
+    <string name="ma_ny">ഞ</string>
+    <string name="ma_T">ട</string>
+    <string name="ma_Th">ഠ</string>
+    <string name="ma_D">ഡ</string>
+    <string name="ma_Dh">ഢ</string>
+    <string name="ma_N">ണ</string>
+    <string name="ma_t">ത</string>
+    <string name="ma_th">ഥ</string>
+    <string name="ma_d">ദ</string>
+    <string name="ma_dh">ധ</string>
+    <string name="ma_n">ന</string>
+    <string name="ma_p">പ</string>
+    <string name="ma_ph">ഫ</string>
+    <string name="ma_b">ബ</string>
+    <string name="ma_bh">ഭ</string>
+    <string name="ma_m">മ</string>
+    <string name="ma_y">യ</string>
+    <string name="ma_r">ര</string>
+    <string name="ma_l">ല</string>
+    <string name="ma_v">വ</string>
+    <string name="ma_sh">ശ</string>
+    <string name="ma_Sh">ഷ</string>
+    <string name="ma_s">സ</string>
+    <string name="ma_h">ഹ</string>
+    <string name="ma_L">ള</string>
+    <string name="ma_zh">ഴ</string>
+    <string name="ma_R">റ</string>
+    <string name="ma_ksha">ക്ഷ</string>
+    <string name="ma_gy">ജ്ഞ</string>
+
+    <!-- chillus -->
+    <string name="ma_ch_N">ൺ</string>
+    <string name="ma_ch_n">ൻ</string>
+    <string name="ma_ch_r">ർ</string>
+    <string name="ma_ch_l">ൽ</string>
+    <string name="ma_ch_L">ൾ</string>
+    <string name="ma_ch_k">ൿ</string>
+
+    <!-- barakhadi -->
+    <string name="ma_ka">ക</string>
+    <string name="ma_kA">കാ</string>
+    <string name="ma_ki">കി</string>
+    <string name="ma_kI">കീ</string>
+    <string name="ma_ku">കു</string>
+    <string name="ma_kU">കൂ</string>
+    <string name="ma_kri">കൃ</string>
+    <string name="ma_kli">കൢ</string>
+    <string name="ma_ke">കെ</string>
+    <string name="ma_kE">കേ</string>
+    <string name="ma_kai">കൈ</string>
+    <string name="ma_ko">കൊ</string>
+    <string name="ma_kO">കോ</string>
+    <string name="ma_kau">കൌ</string>
+    <string name="ma_kam">കം</string>
+    <string name="ma_kah">കഃ</string>
+    <string name="ma_kv">ക്</string>
+
+    <!-- examples -->
+    <string name="ma_ex1">&#160; നമസ്കാരം &#160;</string>
+    <string name="ma_ex2">&#160; രാത്രി &#160;</string>
+    <string name="ma_ex3">&#160; തരുന്നു &#160;</string>
+    <string name="ma_ex4">&#160; ജൻമ &#160;</string>
+    <string name="ma_ex5">&#160; കണ്ണ &#160;</string>
+
+    <!-- Odiaa -->
+    <string name="bhod">Bharati➔Odia</string>
+
+    <!-- vowels -->
+    <string name="od_a">ଆ</string>
+    <string name="od_A">ଆ</string>
+    <string name="od_i">ଇ</string>
+    <string name="od_I">ଈ</string>
+    <string name="od_u">ଉ</string>
+    <string name="od_U">ଊ</string>
+    <string name="od_ri">ଋ</string>
+    <string name="od_li">ଌ</string>
+    <string name="od_e">ଏ</string>
+    <string name="od_ai">ଐ</string>
+    <string name="od_o">ଓ</string>
+    <string name="od_au">ଔ</string>
+    <string name="od_am">ଅଂ</string>
+    <string name="od_aM">ଅଁ</string>
+    <string name="od_ah">ଅଃ</string>
+
+    <!-- consonants-->
+    <string name="od_k">କ</string>
+    <string name="od_kh">ଖ</string>
+    <string name="od_g">ଗ</string>
+    <string name="od_gh">ଘ</string>
+    <string name="od_ng">ଙ</string>
+    <string name="od_c">ଚ</string>
+    <string name="od_ch">ଛ</string>
+    <string name="od_j">ଜ</string>
+    <string name="od_jh">ଝ</string>
+    <string name="od_ny">ଞ</string>
+    <string name="od_T">ଟ</string>
+    <string name="od_Th">ଠ</string>
+    <string name="od_D">ଡ</string>
+    <string name="od_Dh">ଢ</string>
+    <string name="od_N">ଣ</string>
+    <string name="od_t">ତ</string>
+    <string name="od_th">ଥ</string>
+    <string name="od_d">ଦ</string>
+    <string name="od_dh">ଧ</string>
+    <string name="od_n">ନ</string>
+    <string name="od_p">ପ</string>
+    <string name="od_ph">ଫ</string>
+    <string name="od_b">ବ</string>
+    <string name="od_bh">ଭ</string>
+    <string name="od_m">ମ</string>
+    <string name="od_y">ଯ</string>
+    <string name="od_r">ର</string>
+    <string name="od_l">ଲ</string>
+    <string name="od_v">ଵ</string>
+    <string name="od_sh">ଶ</string>
+    <string name="od_Sh">ଷ</string>
+    <string name="od_s">ସ</string>
+    <string name="od_h">ହ</string>
+    <string name="od_L">ଳ</string>
+    <string name="od_ksha">କ୍ଷ</string>
+    <string name="od_gy">ଜ୍ଞ</string>
+
+    <!-- barakhadi -->
+    <string name="od_ka">କ</string>
+    <string name="od_kA">କା</string>
+    <string name="od_ki">କି</string>
+    <string name="od_kI">କୀ</string>
+    <string name="od_ku">କୁ</string>
+    <string name="od_kU">କୂ</string>
+    <string name="od_kri">କୃ</string>
+    <string name="od_kli">କୢ</string>
+    <string name="od_ke">କେ</string>
+    <string name="od_kai">କୈ</string>
+    <string name="od_ko">କୋ</string>
+    <string name="od_kau">କୌ</string>
+    <string name="od_kaM">କଁ</string>
+    <string name="od_kam">କଂ</string>
+    <string name="od_kah">କଃ</string>
+    <string name="od_kv">କ୍</string>
+
+    <!-- examples -->
+    <string name="od_ex1">&#160; ଶୁଭେଚ୍ଛା &#160;</string>
+    <string name="od_ex2">&#160; ମୁଁ &#160;</string>
+    <string name="od_ex3">&#160;  &#160;</string>
+    <string name="od_ex4">&#160;  &#160;</string>
+    <string name="od_ex5">&#160;  &#160;</string>
+
+    <string name="bh_od_ex1">&#160; शुभेच्छा &#160;</string>
+    <string name="bh_od_ex2">&#160; मुँ &#160;</string>
+    <string name="bh_od_ex3">&#160;  &#160;</string>
+    <string name="bh_od_ex4">&#160;  &#160;</string>
+    <string name="bh_od_ex5">&#160;  &#160;</string>
+
+    <!-- Tamil -->
+    <string name="bhta">Bharati➔Tamil</string>
+
+    <!-- vowels -->
+    <string name="ta_a">அ</string>
+    <string name="ta_A">ஆ</string>
+    <string name="ta_i">இ</string>
+    <string name="ta_I">ஈ</string>
+    <string name="ta_u">உ</string>
+    <string name="ta_U">ஊ</string>
+    <string name="ta_e">எ</string>
+    <string name="ta_E">ஏ</string>
+    <string name="ta_ai">ஐ</string>
+    <string name="ta_o">ஒ</string>
+    <string name="ta_O">ஓ</string>
+    <string name="ta_au">ஔ</string>
+    <string name="ta_ak">ஃ</string>
+
+    <!-- consonants-->
+    <string name="ta_k">க</string>
+    <string name="ta_ng">ங</string>
+    <string name="ta_c">ச</string>
+    <string name="ta_ny">ஞ</string>
+    <string name="ta_T">ட</string>
+    <string name="ta_N">ண</string>
+    <string name="ta_t">த</string>
+    <string name="ta_n">ந</string>
+    <string name="ta_p">ப</string>
+    <string name="ta_m">ம</string>
+    <string name="ta_y">ய</string>
+    <string name="ta_r">ர</string>
+    <string name="ta_l">ல</string>
+    <string name="ta_v">வ</string>
+    <string name="ta_L">ள</string>
+    <string name="ta_sh">ஶ</string>
+    <string name="ta_Sh">ஷ</string>
+    <string name="ta_s">ஸ</string>
+    <string name="ta_h">ஹ</string>
+    <string name="ta_R">ற</string>
+    <string name="ta_ksha">க்ஷ</string>
+    <string name="ta_j">ஜ</string>
+    <string name="ta_zh">ழ</string>
+    <string name="ta_NN">ன</string>
+
+    <!-- barakhadi -->
+    <string name="ta_ka">க</string>
+    <string name="ta_kA">கா</string>
+    <string name="ta_ki">கி</string>
+    <string name="ta_kI">கீ</string>
+    <string name="ta_ku">கு</string>
+    <string name="ta_kU">கூ</string>
+    <string name="ta_ke">கெ</string>
+    <string name="ta_kE">கே</string>
+    <string name="ta_kai">கை</string>
+    <string name="ta_ko">கொ</string>
+    <string name="ta_kO">கோ</string>
+    <string name="ta_kau">கௌ</string>
+    <string name="ta_kv">க்</string>
+
+    <!-- examples -->
+    <string name="ta_ex1">&#160; வணக்கம் &#160;</string>
+    <string name="ta_ex2">&#160; நன்றி &#160;</string>
+    <string name="ta_ex3">&#160; ஸ்ரீ &#160;</string>
+    <string name="ta_ex4">&#160; உணவு &#160;</string>
+    <string name="ta_ex5">&#160; நான் &#160;</string>
+
+
+    <!-- Telugu -->
+    <string name="bhte">Bharati➔Telugu</string>
+    <!-- vowels -->
+    <string name="te_a">అ</string>
+    <string name="te_A">ఆ</string>
+    <string name="te_i">ఇ</string>
+    <string name="te_I">ఈ</string>
+    <string name="te_u">ఉ</string>
+    <string name="te_U">ఊ</string>
+    <string name="te_ri">ఋ</string>
+    <string name="te_li">ఌ</string>
+    <string name="te_e">ఎ</string>
+    <string name="te_E">ఏ</string>
+    <string name="te_ai">ఐ</string>
+    <string name="te_o">ఒ</string>
+    <string name="te_O">ఓ</string>
+    <string name="te_au">ఔ</string>
+    <string name="te_am">అం</string>
+    <string name="te_ah">అః</string>
+
+    <!-- consonants -->
+    <string name="te_k">క</string>
+    <string name="te_kh">ఖ</string>
+    <string name="te_g">గ</string>
+    <string name="te_gh">ఘ</string>
+    <string name="te_ng">ఙ</string>
+    <string name="te_c">చ</string>
+    <string name="te_ch">ఛ</string>
+    <string name="te_j">జ</string>
+    <string name="te_jh">ఝ</string>
+    <string name="te_ny">ఞ</string>
+    <string name="te_T">ట</string>
+    <string name="te_Th">ఠ</string>
+    <string name="te_D">డ</string>
+    <string name="te_Dh">ఢ</string>
+    <string name="te_N">ణ</string>
+    <string name="te_t">త</string>
+    <string name="te_th">థ</string>
+    <string name="te_d">ద</string>
+    <string name="te_dh">ధ</string>
+    <string name="te_n">న</string>
+    <string name="te_p">ప</string>
+    <string name="te_ph">ఫ</string>
+    <string name="te_b">బ</string>
+    <string name="te_bh">భ</string>
+    <string name="te_m">మ</string>
+    <string name="te_y">య</string>
+    <string name="te_r">ర</string>
+    <string name="te_l">ల</string>
+    <string name="te_v">వ</string>
+    <string name="te_L">ళ</string>
+    <string name="te_sh">శ</string>
+    <string name="te_Sh">ష</string>
+    <string name="te_s">స</string>
+    <string name="te_h">హ</string>
+    <string name="te_R">ఱ</string>
+    <string name="te_ksha">క్ష</string>
+    <string name="te_gy">జ్ఞ</string>
+    <string name="te_Ts">ౘ</string>
+    <string name="te_Dz">ౙ</string>
+
+    <!-- barakhadi -->
+    <string name="te_ka">క</string>
+    <string name="te_kA">కా</string>
+    <string name="te_ki">కి</string>
+    <string name="te_kI">కీ</string>
+    <string name="te_ku">కు</string>
+    <string name="te_kU">కూ</string>
+    <string name="te_kri">కృ</string>
+    <string name="te_kli">కౢ</string>
+    <string name="te_ke">కె</string>
+    <string name="te_kE">కే</string>
+    <string name="te_kai">కై</string>
+    <string name="te_ko">కొ</string>
+    <string name="te_kO">కో</string>
+    <string name="te_kau">కౌ</string>
+    <string name="te_kaM">కఁ</string>
+    <string name="te_kam">కాం</string>
+    <string name="te_kah">కః</string>
+    <string name="te_kv">క్</string>
+
+    <!-- examples -->
+    <string name="te_ex1">&#160; నమస్కారం &#160;</string>
+    <string name="te_ex2">&#160; వర్షం &#160;</string>
+    <string name="te_ex3">&#160; పక్షుల్ని &#160;</string>
+    <string name="te_ex4">&#160; చక్రం &#160;</string>
+    <string name="te_ex5">&#160; శ్రీ &#160;</string>
+
+    <string name="bh_te_ex1">  నమస్కారం</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>

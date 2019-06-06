@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/srinath/New Volume/Srinath/AndroidStudioProjects/BharatiKeyboard_as_on_9_10/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/srinath/New Volume/Srinath/AndroidStudioProjects/BharatiKeyboard_as_on_9_10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab775d8c7f4ab9117847579e5e352bdbd6fd785d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srinath/.android/build-cache/3f6beb96601585eac17940bf3b891bc2a79b80e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/media/srinath/New Volume/Srinath/AndroidStudioProjects/BharatiKeyboard_as_on_9_10/app/build/intermediates/pre-dexed/debug/classes_1364e2a30a20f5a6025bc0de92a9993554376c8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/srinath/New Volume/Srinath/AndroidStudioProjects/BharatiKeyboard_as_on_9_10/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a590c0c7e75c229cb4ed14202586e95b6f9f6b0e">
+        <dex dex="/media/srinath/New Volume/Srinath/AndroidStudioProjects/BharatiKeyboard_as_on_9_10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_99f167ce5080854db2fadea8a5ca2028ab57f231/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srinath/.android/build-cache/3f6beb96601585eac17940bf3b891bc2a79b80e1/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/media/srinath/New Volume/Srinath/AndroidStudioProjects/BharatiKeyboard_as_on_9_10/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_24396e174a02d8eb5310908ed4b2c4fe7ea8729a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srinath/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/media/srinath/New Volume/Srinath/AndroidStudioProjects/BharatiKeyboard_as_on_9_10/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_4ceb78a73491296d8f57e1966b7a68ca8a15a38d.jar" />
+    </item>
+
+</items>

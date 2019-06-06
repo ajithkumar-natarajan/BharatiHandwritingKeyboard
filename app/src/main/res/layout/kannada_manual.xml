@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.08"
+        android:orientation="horizontal"
+        android:background="@android:color/background_light">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/bhka"
+            android:padding="7dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:background="#dfdddd" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.85"
+        android:background="#fafafa"
+        android:weightSum="1">
+
+        <TableLayout
+            android:layout_width="0dp"
+            android:layout_weight="0.025"
+            android:layout_height="match_parent"
+            android:background="#fafafa"
+            android:isScrollContainer="true">
+
+        </TableLayout>
+
+        <ScrollView
+            android:layout_width="0dp"
+            android:layout_weight="0.95"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+
+            android:scrollbars="none">
+
+            <TableLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:background="@android:color/darker_gray"
+                >
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_a"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_A"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_i"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_I"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_u"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_U"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ri"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_li"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_e"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_a"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_A"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_i"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_I"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_u"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_U"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ri"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_li"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+
+                    <TextView
+                        android:text="@string/ka_e"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_E"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ai"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_o"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_O"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_au"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_am"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ah"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa"
+                        android:autoText="true" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_k"
+                        android:textSize="16dp"
+                        android:textColor="#1763b4"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kh"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_E"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ai"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_o"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_O"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_au"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_am"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ah"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_k"
+                        android:textColor="#1763b4"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_g"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_gh"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ng"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_c"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ch"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_j"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_jh"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ny"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_T"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_g"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_gh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ng"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_c"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ch"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_j"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_jh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ny"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_T"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_Th"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_D"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_Dh"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_N"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_t"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_th"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_d"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_dh"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_n"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_Th"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_D"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_Dh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_N"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_t"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_th"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_d"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_dh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_n"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_p"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ph"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_b"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_bh"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_m"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_y"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_r"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_l"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_v"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_p"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ph"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_b"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_bh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_m"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_y"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_r"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_l"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_v"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_L"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_sh"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_Sh"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_s"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_h"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_R"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ksha"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:paddingTop="3dip"
+                        android:paddingBottom="3dip"
+                        android:paddingLeft="0dip"
+                        android:paddingRight="0dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_gy"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:paddingTop="3dip"
+                        android:paddingBottom="3dip"
+                        android:paddingLeft="0dip"
+                        android:paddingRight="0dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ka"
+                        android:textColor="#1763b4"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_L"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_sh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_Sh"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_s"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_h"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_R"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ksha"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:paddingTop="3dip"
+                        android:paddingBottom="3dip"
+                        android:paddingLeft="0dip"
+                        android:paddingRight="0dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_gy"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:paddingTop="3dip"
+                        android:paddingBottom="3dip"
+                        android:paddingLeft="0dip"
+                        android:paddingRight="0dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ka"
+                        android:textColor="#1763b4"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+
+                </TableRow>
+
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kA"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ki"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kI"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ku"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kU"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kri"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kli"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ke"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kE"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_kA"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ki"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kI"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ku"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kU"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kri"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kli"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ke"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kE"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kai"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_ko"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kO"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kau"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kam"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kah"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="@string/te_kv"
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="  "
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="0dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                    <com.iitm.bharatikeyboard.BharatiTextView
+                        android:text="  "
+                        android:textSize="16dp"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="1dp"
+                        android:background="#fafafa" />
+
+                </TableRow>
+
+                <TableRow
+                    android:background="#c8c8c8">
+
+                    <TextView
+                        android:text="@string/ka_kai"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="1dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_ko"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kO"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kau"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kam"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kah"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="@string/ka_kv"
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="  "
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="0dp"
+                        android:background="#fafafa" />
+
+                    <TextView
+                        android:text="  "
+                        android:gravity="center"
+                        android:layout_weight="0.125"
+                        android:padding="3dip"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="1dp"
+                        android:background="#fafafa" />
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:text="Examples: "
+                        android:textSize="14dp"
+                        android:textColor="#1763b4"
+                        android:paddingTop="5dp"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:background="#fafafa"
+                        android:id="@+id/textView" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:background="#c8c8c8">
+
+
+                    <RelativeLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="#fafafa">
+
+                        <TableLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:background="#fafafa"
+                            android:weightSum="1"
+                            >
+
+                            <TableRow
+                                android:layout_height="1dp"
+                                android:layout_weight="1">
+
+                                <TextView
+                                    android:layout_weight="1"
+                                    android:layout_height="1.0dp"
+                                    android:background="@android:color/darker_gray"
+                                    />
+                            </TableRow>
+
+                            <TableRow>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <TextView
+                                    android:id="@+id/ex1"
+                                    android:text="@string/ka_ex1"
+                                    android:gravity="right"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa" />
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <com.iitm.bharatikeyboard.BharatiTextView
+                                    android:text="@string/bh_ka_ex1"
+                                    android:includeFontPadding="false"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_marginRight="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"                                    />
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                            </TableRow>
+
+
+                            <TableRow>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <TextView
+                                    android:id="@+id/ex2"
+                                    android:text="@string/ka_ex2"
+                                    android:gravity="right"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"/>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <com.iitm.bharatikeyboard.BharatiTextView
+                                    android:text="@string/bh_ka_ex2"
+                                    android:padding="3dp"
+                                    android:includeFontPadding="false"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_marginRight="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"/>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                            </TableRow>
+
+                            <TableRow>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <TextView
+                                    android:id="@+id/ex3"
+                                    android:text="@string/ka_ex3"
+                                    android:gravity="right"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"/>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <com.iitm.bharatikeyboard.BharatiTextView
+                                    android:text="@string/bh_ka_ex3"
+                                    android:includeFontPadding="false"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_marginRight="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa" />
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                            </TableRow>
+
+
+                            <TableRow>
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <TextView
+                                    android:text="@string/ka_ex4"
+                                    android:gravity="right"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"/>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <com.iitm.bharatikeyboard.BharatiTextView
+                                    android:text="@string/bh_ka_ex4"
+                                    android:includeFontPadding="false"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_marginRight="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"/>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                            </TableRow>
+
+                            <TableRow>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <TextView
+                                    android:text="@string/ka_ex5"
+                                    android:gravity="right"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"/>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+
+                                <com.iitm.bharatikeyboard.BharatiTextView
+                                    android:text="@string/bh_ka_ex5"
+                                    android:includeFontPadding="false"
+                                    android:padding="3dp"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_marginRight="1dp"
+                                    android:layout_weight="0.5"
+                                    android:layout_height="wrap_content"
+                                    android:background="#fafafa"/>
+
+                                <LinearLayout
+                                    android:layout_width="1dp"
+                                    android:layout_height="match_parent" >
+
+                                    <View style="@style/Divider" />
+                                </LinearLayout>
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_height="1dp"
+                                android:layout_weight="1">
+
+                                <TextView
+                                    android:layout_weight="1"
+                                    android:layout_height="1.0dp"
+                                    android:background="@android:color/darker_gray"
+                                    />
+                            </TableRow>
+
+                        </TableLayout>
+
+                    </RelativeLayout>
+
+
+                </TableRow>
+
+            </TableLayout>
+        </ScrollView>
+
+        <TableLayout
+            android:layout_width="0dp"
+            android:layout_weight="0.025"
+            android:layout_height="wrap_content"
+            android:background="#fafafa">
+
+        </TableLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.07"
+        android:background="#fafafa"
+        android:gravity="center_vertical|right">
+
+        <Button
+            android:id="@+id/done"
+            android:text="DONE"
+            android:textSize="16dp"
+            android:textColor="#238766"
+            android:background="#fafafa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <!-- <GridLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@android:color/darker_gray">
+
+
+
+         <TextView
+             android:text="వర్షం"
+             android:paddingLeft="2dp"
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <TextView
+             android:text="శ్రీ"
+             android:paddingLeft="2dp"
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <TextView
+             android:text="శ్రీ"
+             android:paddingLeft="2dp"
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_row="1"
+             android:layout_column="0"/>
+
+
+         <com.iitm.bharatikeyboard.BharatiTextView
+             android:text="(నమస్కారం), "
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+
+         <com.iitm.bharatikeyboard.BharatiTextView
+             android:text="(వర్షం), "
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+
+         <com.iitm.bharatikeyboard.BharatiTextView
+             android:text="(శ్రీ),"
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+
+         <com.iitm.bharatikeyboard.BharatiTextView
+             android:text="(శ్రీ),"
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <TextView
+             android:text="వర్షం"
+             android:paddingLeft="2dp"
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+         <com.iitm.bharatikeyboard.BharatiTextView
+             android:text="(వర్షం), "
+             android:paddingTop="10dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+
+
+
+
+
+     </GridLayout>-->
+
+</LinearLayout>
+
+
+    <!--<TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.9"
+        android:stretchColumns="1"
+        android:background="@android:color/white">
+        <TableRow>
+            <com.iitm.bharatikeyboard.BharatiTextView
+                android:text="@string/table_layout_4_open"
+                android:padding="3dip"/>
+            <TextView
+                android:text="@string/table_layout_4_open_shortcut"
+                android:gravity="right"
+                android:padding="3dip" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="@string/table_layout_4_save"
+                android:padding="3dip" />
+            <TextView
+                android:text="@string/table_layout_4_save_shortcut"
+                android:gravity="right"
+                android:padding="3dip" />
+        </TableRow>
+    </TableLayout>-->

@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_number_two.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xxhdpi/number_two.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/xml_method.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi_number_one.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-mdpi/number_one.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_done.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xxhdpi/done.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi_settings_icon.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xhdpi/settings_icon.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_keyboard.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/keyboard.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_setup_activity.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/setup_activity.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_logo.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/mipmap-hdpi_logo.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_tamil_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/tamil_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_manual_mark.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xxhdpi/manual_mark.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_about_bharati_activity.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/about_bharati_activity.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_malayalam_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/malayalam_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi_number_one.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xhdpi/number_one.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/mipmap-mdpi_logo.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi_new_line.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-hdpi/new_line.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi_number_one.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-hdpi/number_one.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_bengali_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/bengali_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_settings_icon.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xxhdpi/settings_icon.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_spinner_item.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tick.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_kannada_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/kannada_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi_manual_mark.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-mdpi/manual_mark.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/mipmap-xhdpi_logo.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi_done.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-mdpi/done.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_getting_started_activity.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/getting_started_activity.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-xlarge-land_keyboard.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout-xlarge-land/keyboard.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-large-land_keyboard.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout-large-land/keyboard.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-land_keyboard.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout-land/keyboard.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-large_keyboard.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout-large/keyboard.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_telugu_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/telugu_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi_settings_icon.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-hdpi/settings_icon.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-xlarge_keyboard.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout-xlarge/keyboard.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi_new_line.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-mdpi/new_line.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_odia_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/odia_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_number_one.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xxhdpi/number_one.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi_number_two.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xhdpi/number_two.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi_new_line.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xhdpi/new_line.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi_tick.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xhdpi/tick.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-ldpi_new_line.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-ldpi/new_line.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_new_line.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xxhdpi/new_line.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi_manual_mark.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-hdpi/manual_mark.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_devanagari_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/devanagari_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_gujarati_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/gujarati_manual.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi_number_two.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-mdpi/number_two.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi_manual_mark.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xhdpi/manual_mark.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi_tick.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-hdpi/tick.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi_done.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-hdpi/done.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-hdpi_number_two.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-hdpi/number_two.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1fc209b5f7cc51fd523824d633b73f60/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi_settings_icon.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-mdpi/settings_icon.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-mdpi_tick.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-mdpi/tick.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/drawable-xhdpi_done.png.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/drawable-xhdpi/done.png"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/home/ajithkumar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6909b67b9f9a10e5ce4eeb00967ac6c2/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/res/merged/debug/layout_gurmukhi_manual.xml.flat",
+        "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/layout/gurmukhi_manual.xml"
+    }
+]

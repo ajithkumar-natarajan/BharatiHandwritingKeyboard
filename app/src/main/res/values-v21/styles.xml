@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Base application theme for API 14+. This theme completely replaces
+    AppBaseTheme from BOTH res/values/styles.xml and
+    res/values-v11/styles.xml on API 14+ devices.
+-->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#848280</item>
+        <!-- #d86d16 All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="AppTitleTheme" parent="AppBaseTheme">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#848280</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

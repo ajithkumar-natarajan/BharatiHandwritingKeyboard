@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/ajithkumar/AndroidStudioProjects/BharatiKeyboard_1.0.1/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7,11,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "220,358,574",
+                        "endLines": "9,14,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "352,568,734"
+                    },
+                    "to": {
+                        "startLines": "2,5,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,192,407",
+                        "endLines": "4,8,11",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "187,402,567"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+64
+21
+1
+/Bharathistrokesv2.txt
+/Bharathiv2/
+gausshhwrnSVs.txt
+gausshhwrSVIndices.txt
+gausshhwr.txt
+gausshhwrbias100.txt

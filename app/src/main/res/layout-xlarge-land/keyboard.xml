@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard"
+    android:layout_width="match_parent"
+    android:layout_height="350dp"
+    android:layout_alignParentBottom="true"
+    android:orientation="vertical"
+    android:background="#f6f6f6">
+
+    <RelativeLayout
+        android:id="@+id/relLayout"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:orientation="horizontal"
+        android:padding="0dp"
+        android:background="#d1d1d1">
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutparent"
+        android:layout_width="match_parent"
+        android:layout_height="265dp"
+        android:orientation="horizontal"
+        android:padding="0dp"
+        android:background="@android:color/white">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.925"
+            android:orientation="horizontal"
+            android:clickable="true" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.075"
+            android:background="#f0f0f0"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/settings"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight=".2"
+                android:src="@drawable/settings_icon"
+                android:background="@android:color/transparent"
+                android:padding="5dp"
+                android:adjustViewBounds="true"
+                android:scaleType = "fitCenter" />
+
+            <!--            <Button
+                            android:id="@+id/settings"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_weight=".2"
+                            android:text="@string/settings"
+                            android:background="@android:color/transparent" />-->
+
+
+            <Button
+                android:id="@+id/recognize"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight=".2"
+                android:text="@string/recognize"
+                android:textSize="28dp"
+                android:background="@android:color/transparent" />
+
+            <Button
+                android:id="@+id/auto_recog_switch"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight=".2"
+                android:background="@android:color/transparent"
+                android:text="@string/auto_recog_switch"
+                android:textSize="23sp" />
+
+            <Button
+                android:id="@+id/undo"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight=".2"
+                android:text="@string/undo"
+                android:textSize="36sp"
+                android:background="@android:color/transparent"
+                android:longClickable="true"  />
+
+            <Button
+                android:id="@+id/backspace"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight=".15"
+                android:text="@string/backspace"
+                android:textSize="30sp"
+                android:background="@android:color/transparent" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#f0f0f0"
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/numeral_switch"
+            android:textSize="28dp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:layout_weight="0.10"
+            android:text="@string/numeral_switch" />
+
+        <Button
+            android:id="@+id/comma"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.10"
+            android:background="@android:color/transparent"
+            android:text="@string/comma"
+            android:textSize="36dp"/>
+
+        <!--
+        <Button
+            android:id="@+id/language"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/transparent"
+            android:text="LA"
+            android:textSize="16dp"/> -->
+
+        <Spinner
+            android:id="@+id/scripts_spinner"
+            android:textAlignment="center"
+            android:padding="5dp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.10"/>
+        <!--android:entries="@style/AppthemeXlarge"-->
+
+        <Button
+            android:id="@+id/space"
+            android:layout_width="0dp"
+            android:layout_height="34dp"
+            android:layout_weight=".42"
+            android:text="@string/space"
+            android:layout_gravity="center"
+            android:background="#d2d2d2"
+            android:longClickable="true" />
+
+        <Button
+            android:id="@+id/dot"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".10"
+            android:background="@android:color/transparent"
+            android:text="@string/dot"
+            android:textSize="38dp"/>
+
+
+        <ImageButton
+            android:id="@+id/manual"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".10"
+            android:src="@drawable/manual_mark"
+            android:background="@android:color/transparent"
+            android:padding="5dp"
+            android:adjustViewBounds="true"
+            android:scaleType = "fitCenter" />
+
+
+        <!--
+        <Button
+            android:id="@+id/manual"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/transparent"
+            android:text="@string/manual" /> -->
+        <!-- android:onClick="manualOnClick" -->
+
+        <Button
+            android:id="@+id/new_line"
+            android:textSize="42sp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".08"
+            android:src="@drawable/new_line"
+            android:background="@android:color/transparent"
+            android:scaleType = "fitCenter"
+            android:text="@string/new_line" />
+
+
+        <!--<ImageButton
+            android:id="@+id/new_line"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight=".18"
+            android:src="@drawable/new_line"
+            android:background="@android:color/white"
+            android:scaleType = "fitCenter" />-->
+        <!-- android:text="@string/new_line" -->
+    </LinearLayout>
+
+</LinearLayout>
